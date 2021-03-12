@@ -138,6 +138,7 @@ class QuizActivity : AppCompatActivity() {
                 val intent = Intent(this, ResultsActivity::class.java)
                 intent.putExtra("score", score)
                 startActivity(intent)
+                finish()
             }
             else -> {
                 viewedQuestion = questionNumber

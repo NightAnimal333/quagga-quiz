@@ -144,7 +144,7 @@
             <option id="3" is_correct="false">Daft Punk</option>
         </options>
     </question>
-    <question>"What king of animal was Quagga?"
+    <question>"What kind of animal was Quagga?"
         <options>
             <option id="0" is_correct="true">An extinct subspecies of zebra</option>
             <option id="1" is_correct="false">A theoretical ancestor of domestic cats</option>

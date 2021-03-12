@@ -15,8 +15,8 @@ class ResultsActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.back_to_main_menu_button).setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
+            intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP
             startActivity(intent)
-            super.finish()
             finish()
         }
     }
