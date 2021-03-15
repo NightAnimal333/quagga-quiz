@@ -128,7 +128,7 @@ class QuizActivity : AppCompatActivity() {
 
         when {
             questionNumber < 0 -> {
-                return
+               return
             }
             questionNumber >= questions.size -> {
 
@@ -183,8 +183,6 @@ class QuizActivity : AppCompatActivity() {
 
             updateScoreUI()
             showCorrectAnswers(viewedQuestion)
-
-            //navigateToQuestion(viewedQuestion + 1)
 
         }
 
