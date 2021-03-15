@@ -7,7 +7,7 @@ Artūrs Umbraško
 
 # Description
 This is a simple quiz app made as my Mobile Programming assignment. You can just clone the repository and run it via Android Studio on an emulator or a real devce.
-There is a autocompiled APK file included, but you will not be able to install it on your phone simply by downloading, since Android does not allow that. 
+There is a autocompiled APK file included, but you will not be able to install it on your phone simply by downloading, since Android does not allow that. You can use that APK to debug in Android Studio though, if that suits you more.
 
 # Features
 * 20 quiz questions in total
