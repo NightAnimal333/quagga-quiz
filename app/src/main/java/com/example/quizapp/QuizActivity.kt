@@ -7,8 +7,10 @@ import android.graphics.Color
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
+import android.widget.ImageButton
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.isVisible
 import com.google.android.material.snackbar.Snackbar
 import org.xmlpull.v1.XmlPullParser
 
@@ -50,10 +52,10 @@ class QuizActivity : AppCompatActivity() {
         findViewById<Button>(R.id.option_four).setOnClickListener {
             submitAnswer(3)
         }
-        findViewById<Button>(R.id.previous_question_button).setOnClickListener {
+        findViewById<ImageButton>(R.id.previous_question_button).setOnClickListener {
             navigateToQuestion(viewedQuestion - 1)
         }
-        findViewById<Button>(R.id.next_question_button).setOnClickListener {
+        findViewById<ImageButton>(R.id.next_question_button).setOnClickListener {
             navigateToQuestion(viewedQuestion + 1)
         }
 
@@ -70,13 +72,15 @@ class QuizActivity : AppCompatActivity() {
         findViewById<Button>(R.id.option_three).text = question.options[2].text
         findViewById<Button>(R.id.option_four).text = question.options[3].text
 
-        findViewById<TextView>(R.id.question_number).text = "Current question: ${(viewedQuestion + 1)} out of $amountOfQuestions"
+        findViewById<TextView>(R.id.question_number).text = getString(R.string.current_question, (viewedQuestion + 1), amountOfQuestions)
 
         if (question.isAnswered){
             showCorrectAnswers(questionNumber)
         } else {
             resetTextColours()
         }
+
+        findViewById<ImageButton>(R.id.previous_question_button).isVisible = viewedQuestion != 0
 
     }
 
@@ -117,7 +121,7 @@ class QuizActivity : AppCompatActivity() {
     }
 
     private fun updateScoreUI(){
-        findViewById<TextView>(R.id.player_score).text = "Your score: $score"
+        findViewById<TextView>(R.id.player_score).text = getString(R.string.your_score, score)
     }
 
     private fun navigateToQuestion(questionNumber: Int){
