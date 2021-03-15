@@ -1,4 +1,4 @@
-# quagga-quiz
+# Quagga Quiz
 Mobile Programming assignment
 
 # Author
