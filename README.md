@@ -23,5 +23,6 @@ There is also a signed apk provided, which you can just drop to your Android dev
 * Additionaly, the player can see always see their current score and question number
 * Organised activity lifecycles
 
+
 * Localisation in English, Norwegian Bokmål and Latvian
 * Players can submit their scores at the end of the quiz, and see top players' scores
