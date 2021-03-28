@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question id="1">Nosauc galvaspilsētu: Alabama?
+        <options>
+            <option id="0" is_correct="true">Montgomery</option>
+            <option id="1" is_correct="false">Topeka</option>
+            <option id="2" is_correct="false">Concord</option>
+            <option id="3" is_correct="false">Baton Rouge</option>
+        </options>
+    </question>
+    <question id="2">Nosauc galvaspilsētu: Alaska?
+        <options>
+            <option id="0" is_correct="true">Juneau</option>
+            <option id="1" is_correct="false">Phoenix</option>
+            <option id="2" is_correct="false">Concord</option>
+            <option id="3" is_correct="false">Boise</option>
+        </options>
+    </question>
+    <question id="3">Nosauc galvaspilsētu: Arizona?
+        <options>
+            <option id="0" is_correct="true">Phoenix</option>
+            <option id="1" is_correct="false">St. Paul</option>
+            <option id="2" is_correct="false">Jefferson City</option>
+            <option id="3" is_correct="false">Columbus</option>
+        </options>
+    </question>
+    <question id="4">Nosauc galvaspilsētu: Arkansas?
+        <options>
+            <option id="0" is_correct="true">Little Rock</option>
+            <option id="1" is_correct="false">Concord</option>
+            <option id="2" is_correct="false">Honolulu</option>
+            <option id="3" is_correct="false">Columbia</option>
+        </options>
+    </question>
+    <question id="5">Nosauc galvaspilsētu: California?
+        <options>
+            <option id="0" is_correct="true">Sacramento</option>
+            <option id="1" is_correct="false">Honolulu</option>
+            <option id="2" is_correct="false">Frankfort</option>
+            <option id="3" is_correct="false">Indianapolis</option>
+        </options>
+    </question>
+    <question id="6">Nosauc galvaspilsētu: Colorado?
+        <options>
+            <option id="0" is_correct="true">Denver</option>
+            <option id="1" is_correct="false">Annapolis</option>
+            <option id="2" is_correct="false">Nashville</option>
+            <option id="3" is_correct="false">Indianapolis</option>
+        </options>
+    </question>
+    <question id="7">Nosauc galvaspilsētu: Connecticut?
+        <options>
+            <option id="0" is_correct="true">Hartford</option>
+            <option id="1" is_correct="false">Augusta</option>
+            <option id="2" is_correct="false">Austin</option>
+            <option id="3" is_correct="false">Cheyenne</option>
+        </options>
+    </question>
+    <question id="8">Nosauc galvaspilsētu: Delaware?
+        <options>
+            <option id="0" is_correct="true">Dover</option>
+            <option id="1" is_correct="false">Lincoln</option>
+            <option id="2" is_correct="false">Annapolis</option>
+            <option id="3" is_correct="false">Santa Fe</option>
+        </options>
+    </question>
+    <question id="9">Nosauc galvaspilsētu: Florida?
+        <options>
+            <option id="0" is_correct="true">Tallahassee</option>
+            <option id="1" is_correct="false">Helena</option>
+            <option id="2" is_correct="false">Phoenix</option>
+            <option id="3" is_correct="false">Harrisburg</option>
+        </options>
+    </question>
+    <question id="10">Nosauc galvaspilsētu: Georgia?
+        <options>
+            <option id="0" is_correct="true">Atlanta</option>
+            <option id="1" is_correct="false">Harrisburg</option>
+            <option id="2" is_correct="false">Montpelier</option>
+            <option id="3" is_correct="false">Frankfort</option>
+        </options>
+    </question>
+    <question id="11">Nosauc galvaspilsētu: Hawaii?
+        <options>
+            <option id="0" is_correct="true">Honolulu</option>
+            <option id="1" is_correct="false">Boise</option>
+            <option id="2" is_correct="false">Bismarck</option>
+            <option id="3" is_correct="false">Charleston</option>
+        </options>
+    </question>
+    <question id="12">Nosauc galvaspilsētu: Idaho?
+        <options>
+            <option id="0" is_correct="true">Boise</option>
+            <option id="1" is_correct="false">Tallahassee</option>
+            <option id="2" is_correct="false">Atlanta</option>
+            <option id="3" is_correct="false">Juneau</option>
+        </options>
+    </question>
+    <question id="13">Nosauc galvaspilsētu: Illinois?
+        <options>
+            <option id="0" is_correct="true">Springfield</option>
+            <option id="1" is_correct="false">Jefferson City</option>
+            <option id="2" is_correct="false">Montgomery</option>
+            <option id="3" is_correct="false">Boston</option>
+        </options>
+    </question>
+    <question id="14">Nosauc galvaspilsētu: Indiana?
+        <options>
+            <option id="0" is_correct="true">Indianapolis</option>
+            <option id="1" is_correct="false">Des Moines</option>
+            <option id="2" is_correct="false">Columbus</option>
+            <option id="3" is_correct="false">Pierre</option>
+        </options>
+    </question>
+    <question id="15">Nosauc galvaspilsētu: Iowa?
+        <options>
+            <option id="0" is_correct="true">Des Moines</option>
+            <option id="1" is_correct="false">Montpelier</option>
+            <option id="2" is_correct="false">Springfield</option>
+            <option id="3" is_correct="false">Topeka</option>
+        </options>
+    </question>
+    <question id="16">Nosauc galvaspilsētu: Kansas?
+        <options>
+            <option id="0" is_correct="true">Topeka</option>
+            <option id="1" is_correct="false">Baton Rouge</option>
+            <option id="2" is_correct="false">Sacramento</option>
+            <option id="3" is_correct="false">Salt Lake City</option>
+        </options>
+    </question>
+    <question id="17">Nosauc galvaspilsētu: Kentucky?
+        <options>
+            <option id="0" is_correct="true">Frankfort</option>
+            <option id="1" is_correct="false">Atlanta</option>
+            <option id="2" is_correct="false">Olympia</option>
+            <option id="3" is_correct="false">St. Paul</option>
+        </options>
+    </question>
+    <question id="18">Nosauc galvaspilsētu: Louisiana?
+        <options>
+            <option id="0" is_correct="true">Baton Rouge</option>
+            <option id="1" is_correct="false">Olympia</option>
+            <option id="2" is_correct="false">Cheyenne</option>
+            <option id="3" is_correct="false">Lansing</option>
+        </options>
+    </question>
+    <question id="19">Nosauc galvaspilsētu: Maine?
+        <options>
+            <option id="0" is_correct="true">Augusta</option>
+            <option id="1" is_correct="false">Santa Fe</option>
+            <option id="2" is_correct="false">Austin</option>
+            <option id="3" is_correct="false">Providence</option>
+        </options>
+    </question>
+    <question id="20">Nosauc galvaspilsētu: Maryland?
+        <options>
+            <option id="0" is_correct="true">Annapolis</option>
+            <option id="1" is_correct="false">Lincoln</option>
+            <option id="2" is_correct="false">Austin</option>
+            <option id="3" is_correct="false">Salt Lake City</option>
+        </options>
+    </question>
+    <question id="21">Nosauc galvaspilsētu: Massachusetts?
+        <options>
+            <option id="0" is_correct="true">Boston</option>
+            <option id="1" is_correct="false">Helena</option>
+            <option id="2" is_correct="false">Carson City</option>
+            <option id="3" is_correct="false">Baton Rouge</option>
+        </options>
+    </question>
+    <question id="22">Nosauc galvaspilsētu: Michingan?
+        <options>
+            <option id="0" is_correct="true">Lansing</option>
+            <option id="1" is_correct="false">Hartford</option>
+            <option id="2" is_correct="false">Pierre</option>
+            <option id="3" is_correct="false">Baton Rouge</option>
+        </options>
+    </question>
+    <question id="23">Nosauc galvaspilsētu: Minnesota?
+        <options>
+            <option id="0" is_correct="true">St. Paul</option>
+            <option id="1" is_correct="false">Charleston</option>
+            <option id="2" is_correct="false">Trenton</option>
+            <option id="3" is_correct="false">Pierre</option>
+        </options>
+    </question>
+    <question id="24">Nosauc galvaspilsētu: Mississippi?
+        <options>
+            <option id="0" is_correct="true">Jackson</option>
+            <option id="1" is_correct="false">Pierre</option>
+            <option id="2" is_correct="false">Jefferson City</option>
+            <option id="3" is_correct="false">Albany</option>
+        </options>
+    </question>
+    <question id="25">Nosauc galvaspilsētu: Missouri?
+        <options>
+            <option id="0" is_correct="true">Jefferson City</option>
+            <option id="1" is_correct="false">Jackson</option>
+            <option id="2" is_correct="false">Salem</option>
+            <option id="3" is_correct="false">Pierre</option>
+        </options>
+    </question>
+    <question id="26">Nosauc galvaspilsētu: Montana?
+        <options>
+            <option id="0" is_correct="true">Helena</option>
+            <option id="1" is_correct="false">Harrisburg</option>
+            <option id="2" is_correct="false">Augusta</option>
+            <option id="3" is_correct="false">Little Rock</option>
+        </options>
+    </question>
+    <question id="27">Nosauc galvaspilsētu: Nebraska?
+        <options>
+            <option id="0" is_correct="true">Lincoln</option>
+            <option id="1" is_correct="false">Denver</option>
+            <option id="2" is_correct="false">Bismarck</option>
+            <option id="3" is_correct="false">St. Paul</option>
+        </options>
+    </question>
+    <question id="28">Nosauc galvaspilsētu: Nevada?
+        <options>
+            <option id="0" is_correct="true">Carson City</option>
+            <option id="1" is_correct="false">Phoenix</option>
+            <option id="2" is_correct="false">Denver</option>
+            <option id="3" is_correct="false">Hartford</option>
+        </options>
+    </question>
+    <question id="29">Nosauc galvaspilsētu: New Hampshire?
+        <options>
+            <option id="0" is_correct="true">Concord</option>
+            <option id="1" is_correct="false">Phoenix</option>
+            <option id="2" is_correct="false">St. Paul</option>
+            <option id="3" is_correct="false">Lincoln</option>
+        </options>
+    </question>
+    <question id="30">Nosauc galvaspilsētu: New Jersey?
+        <options>
+            <option id="0" is_correct="true">Trenton</option>
+            <option id="1" is_correct="false">Carson City</option>
+            <option id="2" is_correct="false">Raleigh</option>
+            <option id="3" is_correct="false">Jackson</option>
+        </options>
+    </question>
+    <question id="31">Nosauc galvaspilsētu: New Mexico?
+        <options>
+            <option id="0" is_correct="true">Santa Fe</option>
+            <option id="1" is_correct="false">Boston</option>
+            <option id="2" is_correct="false">Montgomery</option>
+            <option id="3" is_correct="false">Frankfort</option>
+        </options>
+    </question>
+    <question id="32">Nosauc galvaspilsētu: New York?
+        <options>
+            <option id="0" is_correct="true">Albany</option>
+            <option id="1" is_correct="false">Charleston</option>
+            <option id="2" is_correct="false">Frankfort</option>
+            <option id="3" is_correct="false">Jackson</option>
+        </options>
+    </question>
+    <question id="33">Nosauc galvaspilsētu: North Carolina?
+        <options>
+            <option id="0" is_correct="true">Raleigh</option>
+            <option id="1" is_correct="false">Boston</option>
+            <option id="2" is_correct="false">Jackson</option>
+            <option id="3" is_correct="false">Hartford</option>
+        </options>
+    </question>
+    <question id="34">Nosauc galvaspilsētu: North Dakota?
+        <options>
+            <option id="0" is_correct="true">Bismarck</option>
+            <option id="1" is_correct="false">Montpelier</option>
+            <option id="2" is_correct="false">Boise</option>
+            <option id="3" is_correct="false">Boston</option>
+        </options>
+    </question>
+    <question id="35">Nosauc galvaspilsētu: Ohio?
+        <options>
+            <option id="0" is_correct="true">Columbus</option>
+            <option id="1" is_correct="false">Honolulu</option>
+            <option id="2" is_correct="false">Madison</option>
+            <option id="3" is_correct="false">Nashville</option>
+        </options>
+    </question>
+    <question id="36">Nosauc galvaspilsētu: Oklahoma?
+        <options>
+            <option id="0" is_correct="true">Oklahoma City</option>
+            <option id="1" is_correct="false">Trenton</option>
+            <option id="2" is_correct="false">Des Moines</option>
+            <option id="3" is_correct="false">Montpelier</option>
+        </options>
+    </question>
+    <question id="37">Nosauc galvaspilsētu: Oregon?
+        <options>
+            <option id="0" is_correct="true">Salem</option>
+            <option id="1" is_correct="false">Trenton</option>
+            <option id="2" is_correct="false">Little Rock</option>
+            <option id="3" is_correct="false">Richmond</option>
+        </options>
+    </question>
+    <question id="38">Nosauc galvaspilsētu: Pennsylvania?
+        <options>
+            <option id="0" is_correct="true">Harrisburg</option>
+            <option id="1" is_correct="false">Columbia</option>
+            <option id="2" is_correct="false">Atlanta</option>
+            <option id="3" is_correct="false">Montgomery</option>
+        </options>
+    </question>
+    <question id="39">Nosauc galvaspilsētu: Rhode Island?
+        <options>
+            <option id="0" is_correct="true">Providence</option>
+            <option id="1" is_correct="false">Pierre</option>
+            <option id="2" is_correct="false">Madison</option>
+            <option id="3" is_correct="false">Denver</option>
+        </options>
+    </question>
+    <question id="40">Nosauc galvaspilsētu: South Carolina?
+        <options>
+            <option id="0" is_correct="true">Columbia</option>
+            <option id="1" is_correct="false">Nashville</option>
+            <option id="2" is_correct="false">Helena</option>
+            <option id="3" is_correct="false">St. Paul</option>
+        </options>
+    </question>
+    <question id="41">Nosauc galvaspilsētu: South Dakota?
+        <options>
+            <option id="0" is_correct="true">Pierre</option>
+            <option id="1" is_correct="false">Trenton</option>
+            <option id="2" is_correct="false">Frankfort</option>
+            <option id="3" is_correct="false">Sacramento</option>
+        </options>
+    </question>
+    <question id="42">Nosauc galvaspilsētu: Tennessee?
+        <options>
+            <option id="0" is_correct="true">Nashville</option>
+            <option id="1" is_correct="false">Annapolis</option>
+            <option id="2" is_correct="false">Lansing</option>
+            <option id="3" is_correct="false">Salt Lake City</option>
+        </options>
+    </question>
+    <question id="43">Nosauc galvaspilsētu: Texas?
+        <options>
+            <option id="0" is_correct="true">Austin</option>
+            <option id="1" is_correct="false">Raleigh</option>
+            <option id="2" is_correct="false">St. Paul</option>
+            <option id="3" is_correct="false">Tallahassee</option>
+        </options>
+    </question>
+    <question id="44">Nosauc galvaspilsētu: Utah?
+        <options>
+            <option id="0" is_correct="true">Salt Lake City</option>
+            <option id="1" is_correct="false">Lansing</option>
+            <option id="2" is_correct="false">Tallahassee</option>
+            <option id="3" is_correct="false">Concord</option>
+        </options>
+    </question>
+    <question id="45">Nosauc galvaspilsētu: Vermont?
+        <options>
+            <option id="0" is_correct="true">Montpelier</option>
+            <option id="1" is_correct="false">Salem</option>
+            <option id="2" is_correct="false">Bismarck</option>
+            <option id="3" is_correct="false">Cheyenne</option>
+        </options>
+    </question>
+    <question id="46">Nosauc galvaspilsētu: Virginia?
+        <options>
+            <option id="0" is_correct="true">Richmond</option>
+            <option id="1" is_correct="false">Hartford</option>
+            <option id="2" is_correct="false">Boston</option>
+            <option id="3" is_correct="false">Augusta</option>
+        </options>
+    </question>
+    <question id="47">Nosauc galvaspilsētu: Washington?
+        <options>
+            <option id="0" is_correct="true">Olympia</option>
+            <option id="1" is_correct="false">Augusta</option>
+            <option id="2" is_correct="false">Phoenix</option>
+            <option id="3" is_correct="false">Salem</option>
+        </options>
+    </question>
+    <question id="48">Nosauc galvaspilsētu: West Virginia?
+        <options>
+            <option id="0" is_correct="true">Charleston</option>
+            <option id="1" is_correct="false">Raleigh</option>
+            <option id="2" is_correct="false">Frankfort</option>
+            <option id="3" is_correct="false">Pierre</option>
+        </options>
+    </question>
+    <question id="49">Nosauc galvaspilsētu: Wisconsin?
+        <options>
+            <option id="0" is_correct="true">Madison</option>
+            <option id="1" is_correct="false">Olympia</option>
+            <option id="2" is_correct="false">St. Paul</option>
+            <option id="3" is_correct="false">Pierre</option>
+        </options>
+    </question>
+    <question id="50">Nosauc galvaspilsētu: Wyoming?
+        <options>
+            <option id="0" is_correct="true">Cheyenne</option>
+            <option id="1" is_correct="false">Lansing</option>
+            <option id="2" is_correct="false">Tallahassee</option>
+            <option id="3" is_correct="false">Little Rock</option>
+        </options>
+    </question>
+</questions>

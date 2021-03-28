@@ -1,163 +1,403 @@
 <?xml version="1.0" encoding="utf-8"?>
 <questions>
-   <question>"What is your favourite colour?"
-        <options>
-            <option id="0" is_correct="true">Red</option>
-            <option id="1" is_correct="true">Green</option>
-            <option id="2" is_correct="true">Blue</option>
-            <option id="3" is_correct="false">Blue, no wait...</option>
-        </options>
-    </question>
-    <question>"What is the oldest university in the world still in operation?"
-        <options>
-            <option id="0" is_correct="true">University of Bologna</option>
-            <option id="1" is_correct="false">NTNU</option>
-            <option id="2" is_correct="false">University of Latvia</option>
-            <option id="3" is_correct="false">University of Oxford</option>
-        </options>
-    </question>
-    <question>"What is your quest?"
-        <options>
-            <option id="0" is_correct="true">To seek the Holy Grail</option>
-            <option id="1" is_correct="true">To seek the Holy Grail</option>
-            <option id="2" is_correct="true">To seek the Holy Grail</option>
-            <option id="3" is_correct="true">To seek the Holy Grail</option>
-        </options>
-    </question>
-    <question>"What is your name?"
-        <options>
-            <option id="0" is_correct="true">Arthur, King of the Britons</option>
-            <option id="1" is_correct="true">Sir Lancelot of Camelot</option>
-            <option id="2" is_correct="true">Sir Robin of Camelot</option>
-            <option id="3" is_correct="true">Sir Galahad of Camelot</option>
-        </options>
-    </question>
-    <question>"What is the capital of Assyria?"
-        <options>
-            <option id="0" is_correct="true">Ashur</option>
-            <option id="1" is_correct="true">Nineveh</option>
-            <option id="2" is_correct="true">Harran</option>
-            <option id="3" is_correct="false">I don't know that!</option>
-        </options>
-    </question>
-    <question>"What is the airspeed velocity of an unladen swallow?"
-        <options>
-            <option id="0" is_correct="false">7 m/s</option>
-            <option id="1" is_correct="true">What do you mean, an African or a European swallow?</option>
-            <option id="2" is_correct="false">36 knots</option>
-            <option id="3" is_correct="false">1,5 Mach</option>
-        </options>
-    </question>
-    <question>"In what year the Fall of Constantinople happened?"
-        <options>
-            <option id="0" is_correct="true">1453</option>
-            <option id="1" is_correct="false">1492</option>
-            <option id="2" is_correct="false">1146</option>
-            <option id="3" is_correct="false">1576</option>
-        </options>
-    </question>
-    <question>"The area of North America, that was discovered by Leif Eiriksson, was called by the Vikings:"
-        <options>
-            <option id="0" is_correct="true">Vinland</option>
-            <option id="1" is_correct="false">Sognefjord</option>
-            <option id="2" is_correct="false">Helsingfors</option>
-            <option id="3" is_correct="false">Kópavogur</option>
-        </options>
-    </question>
-    <question>"Which of these was a colony of the Duchy of Courland and Semigallia?"
-        <options>
-            <option id="0" is_correct="true">Tobago</option>
-            <option id="1" is_correct="false">Puerto Rico</option>
-            <option id="2" is_correct="false">Oahu</option>
-            <option id="3" is_correct="false">New Zealand</option>
-        </options>
-    </question>
-    <question>"Which of these colours is currently only used on two national flags?"
-        <options>
-            <option id="0" is_correct="true">Purple</option>
-            <option id="1" is_correct="false">Red</option>
-            <option id="2" is_correct="false">Green</option>
-            <option id="3" is_correct="false">Orange</option>
-        </options>
-    </question>
-    <question>"Which one of these personalities lived further in the past?"
-        <options>
-            <option id="0" is_correct="true">Charlemagne</option>
-            <option id="1" is_correct="false">Martin Luther</option>
-            <option id="2" is_correct="false">William the Conqueror</option>
-            <option id="3" is_correct="false">Leonardo da Vinci</option>
-        </options>
-    </question>
-    <question>"Weber is a SI unit of what?"
-        <options>
-            <option id="0" is_correct="true">Magnetic flux</option>
-            <option id="1" is_correct="false">Electric potential</option>
-            <option id="2" is_correct="false">Magnetic induction</option>
-            <option id="3" is_correct="false">Electrical resistance</option>
-        </options>
-    </question>
-    <question>"Which one of these languages belongs to the Slavic language group?"
-        <options>
-            <option id="0" is_correct="true">Macedonian</option>
-            <option id="1" is_correct="false">Hungarian</option>
-            <option id="2" is_correct="false">Latvian</option>
-            <option id="3" is_correct="false">Romanian</option>
-        </options>
-    </question>
-    <question>"Which one of these countries still has a working top-level internet domain?"
-        <options>
-            <option id="0" is_correct="true">Soviet Union</option>
-            <option id="1" is_correct="false">Czechoslovakia</option>
-            <option id="2" is_correct="false">German Democratic Republic</option>
-            <option id="3" is_correct="false">Yugoslavia</option>
-        </options>
-    </question>
-    <question>"In linguistics, words from different languages that sound alike, but have totally different meaning, are called:"
-        <options>
-            <option id="0" is_correct="true">False friends</option>
-            <option id="1" is_correct="false">Homonyms</option>
-            <option id="2" is_correct="false">Polyglots</option>
-            <option id="3" is_correct="false">Internationalisations</option>
-        </options>
-    </question>
-    <question>"Usually, a bass guitar has:"
-        <options>
-            <option id="0" is_correct="true">4 strings</option>
-            <option id="1" is_correct="false">5 strings</option>
-            <option id="2" is_correct="false">6 strings</option>
-            <option id="3" is_correct="false">7 strings</option>
-        </options>
-    </question>
-    <question>"In what year Karl Marx and Friderich Engels wrote The Communist Manifesto?"
-        <options>
-            <option id="0" is_correct="true">1848</option>
-            <option id="1" is_correct="false">1917</option>
-            <option id="2" is_correct="false">1789</option>
-            <option id="3" is_correct="false">1948</option>
-        </options>
-    </question>
-    <question>"The first band to play on all seven continents, including Antarctica, was:"
-        <options>
-            <option id="0" is_correct="true">Metallica</option>
-            <option id="1" is_correct="false">The Beatles</option>
-            <option id="2" is_correct="false">The Jackson 5</option>
-            <option id="3" is_correct="false">Daft Punk</option>
-        </options>
-    </question>
-    <question>"What kind of animal was Quagga?"
-        <options>
-            <option id="0" is_correct="true">An extinct subspecies of zebra</option>
-            <option id="1" is_correct="false">A theoretical ancestor of domestic cats</option>
-            <option id="2" is_correct="false">A Celtic mythological animal</option>
-            <option id="3" is_correct="false">A fictional animal from H.P. Lovecraft's books</option>
-        </options>
-    </question>
-    <question>"Which one of these modern states was the first to legalise same-sex marriages?"
-        <options>
-            <option id="0" is_correct="true">Netherlands</option>
-            <option id="1" is_correct="false">Italy</option>
-            <option id="2" is_correct="false">Iceland</option>
-            <option id="3" is_correct="false">Ireland</option>
-        </options>
-    </question>
+<question id="1">What is the capital of Alabama?
+<options>
+<option id="0" is_correct="true">Montgomery</option>
+<option id="1" is_correct="false">Topeka</option>
+<option id="2" is_correct="false">Concord</option>
+<option id="3" is_correct="false">Baton Rouge</option>
+</options>
+</question>
+<question id="2">What is the capital of Alaska?
+<options>
+<option id="0" is_correct="true">Juneau</option>
+<option id="1" is_correct="false">Phoenix</option>
+<option id="2" is_correct="false">Concord</option>
+<option id="3" is_correct="false">Boise</option>
+</options>
+</question>
+<question id="3">What is the capital of Arizona?
+<options>
+<option id="0" is_correct="true">Phoenix</option>
+<option id="1" is_correct="false">St. Paul</option>
+<option id="2" is_correct="false">Jefferson City</option>
+<option id="3" is_correct="false">Columbus</option>
+</options>
+</question>
+<question id="4">What is the capital of Arkansas?
+<options>
+<option id="0" is_correct="true">Little Rock</option>
+<option id="1" is_correct="false">Concord</option>
+<option id="2" is_correct="false">Honolulu</option>
+<option id="3" is_correct="false">Columbia</option>
+</options>
+</question>
+<question id="5">What is the capital of California?
+<options>
+<option id="0" is_correct="true">Sacramento</option>
+<option id="1" is_correct="false">Honolulu</option>
+<option id="2" is_correct="false">Frankfort</option>
+<option id="3" is_correct="false">Indianapolis</option>
+</options>
+</question>
+<question id="6">What is the capital of Colorado?
+<options>
+<option id="0" is_correct="true">Denver</option>
+<option id="1" is_correct="false">Annapolis</option>
+<option id="2" is_correct="false">Nashville</option>
+<option id="3" is_correct="false">Indianapolis</option>
+</options>
+</question>
+<question id="7">What is the capital of Connecticut?
+<options>
+<option id="0" is_correct="true">Hartford</option>
+<option id="1" is_correct="false">Augusta</option>
+<option id="2" is_correct="false">Austin</option>
+<option id="3" is_correct="false">Cheyenne</option>
+</options>
+</question>
+<question id="8">What is the capital of Delaware?
+<options>
+<option id="0" is_correct="true">Dover</option>
+<option id="1" is_correct="false">Lincoln</option>
+<option id="2" is_correct="false">Annapolis</option>
+<option id="3" is_correct="false">Santa Fe</option>
+</options>
+</question>
+<question id="9">What is the capital of Florida?
+<options>
+<option id="0" is_correct="true">Tallahassee</option>
+<option id="1" is_correct="false">Helena</option>
+<option id="2" is_correct="false">Phoenix</option>
+<option id="3" is_correct="false">Harrisburg</option>
+</options>
+</question>
+<question id="10">What is the capital of Georgia?
+<options>
+<option id="0" is_correct="true">Atlanta</option>
+<option id="1" is_correct="false">Harrisburg</option>
+<option id="2" is_correct="false">Montpelier</option>
+<option id="3" is_correct="false">Frankfort</option>
+</options>
+</question>
+<question id="11">What is the capital of Hawaii?
+<options>
+<option id="0" is_correct="true">Honolulu</option>
+<option id="1" is_correct="false">Boise</option>
+<option id="2" is_correct="false">Bismarck</option>
+<option id="3" is_correct="false">Charleston</option>
+</options>
+</question>
+<question id="12">What is the capital of Idaho?
+<options>
+<option id="0" is_correct="true">Boise</option>
+<option id="1" is_correct="false">Tallahassee</option>
+<option id="2" is_correct="false">Atlanta</option>
+<option id="3" is_correct="false">Juneau</option>
+</options>
+</question>
+<question id="13">What is the capital of Illinois?
+<options>
+<option id="0" is_correct="true">Springfield</option>
+<option id="1" is_correct="false">Jefferson City</option>
+<option id="2" is_correct="false">Montgomery</option>
+<option id="3" is_correct="false">Boston</option>
+</options>
+</question>
+<question id="14">What is the capital of Indiana?
+<options>
+<option id="0" is_correct="true">Indianapolis</option>
+<option id="1" is_correct="false">Des Moines</option>
+<option id="2" is_correct="false">Columbus</option>
+<option id="3" is_correct="false">Pierre</option>
+</options>
+</question>
+<question id="15">What is the capital of Iowa?
+<options>
+<option id="0" is_correct="true">Des Moines</option>
+<option id="1" is_correct="false">Montpelier</option>
+<option id="2" is_correct="false">Springfield</option>
+<option id="3" is_correct="false">Topeka</option>
+</options>
+</question>
+<question id="16">What is the capital of Kansas?
+<options>
+<option id="0" is_correct="true">Topeka</option>
+<option id="1" is_correct="false">Baton Rouge</option>
+<option id="2" is_correct="false">Sacramento</option>
+<option id="3" is_correct="false">Salt Lake City</option>
+</options>
+</question>
+<question id="17">What is the capital of Kentucky?
+<options>
+<option id="0" is_correct="true">Frankfort</option>
+<option id="1" is_correct="false">Atlanta</option>
+<option id="2" is_correct="false">Olympia</option>
+<option id="3" is_correct="false">St. Paul</option>
+</options>
+</question>
+<question id="18">What is the capital of Louisiana?
+<options>
+<option id="0" is_correct="true">Baton Rouge</option>
+<option id="1" is_correct="false">Olympia</option>
+<option id="2" is_correct="false">Cheyenne</option>
+<option id="3" is_correct="false">Lansing</option>
+</options>
+</question>
+<question id="19">What is the capital of Maine?
+<options>
+<option id="0" is_correct="true">Augusta</option>
+<option id="1" is_correct="false">Santa Fe</option>
+<option id="2" is_correct="false">Austin</option>
+<option id="3" is_correct="false">Providence</option>
+</options>
+</question>
+<question id="20">What is the capital of Maryland?
+<options>
+<option id="0" is_correct="true">Annapolis</option>
+<option id="1" is_correct="false">Lincoln</option>
+<option id="2" is_correct="false">Austin</option>
+<option id="3" is_correct="false">Salt Lake City</option>
+</options>
+</question>
+<question id="21">What is the capital of Massachusetts?
+<options>
+<option id="0" is_correct="true">Boston</option>
+<option id="1" is_correct="false">Helena</option>
+<option id="2" is_correct="false">Carson City</option>
+<option id="3" is_correct="false">Baton Rouge</option>
+</options>
+</question>
+<question id="22">What is the capital of Michingan?
+<options>
+<option id="0" is_correct="true">Lansing</option>
+<option id="1" is_correct="false">Hartford</option>
+<option id="2" is_correct="false">Pierre</option>
+<option id="3" is_correct="false">Baton Rouge</option>
+</options>
+</question>
+<question id="23">What is the capital of Minnesota?
+<options>
+<option id="0" is_correct="true">St. Paul</option>
+<option id="1" is_correct="false">Charleston</option>
+<option id="2" is_correct="false">Trenton</option>
+<option id="3" is_correct="false">Pierre</option>
+</options>
+</question>
+<question id="24">What is the capital of Mississippi?
+<options>
+<option id="0" is_correct="true">Jackson</option>
+<option id="1" is_correct="false">Pierre</option>
+<option id="2" is_correct="false">Jefferson City</option>
+<option id="3" is_correct="false">Albany</option>
+</options>
+</question>
+<question id="25">What is the capital of Missouri?
+<options>
+<option id="0" is_correct="true">Jefferson City</option>
+<option id="1" is_correct="false">Jackson</option>
+<option id="2" is_correct="false">Salem</option>
+<option id="3" is_correct="false">Pierre</option>
+</options>
+</question>
+<question id="26">What is the capital of Montana?
+<options>
+<option id="0" is_correct="true">Helena</option>
+<option id="1" is_correct="false">Harrisburg</option>
+<option id="2" is_correct="false">Augusta</option>
+<option id="3" is_correct="false">Little Rock</option>
+</options>
+</question>
+<question id="27">What is the capital of Nebraska?
+<options>
+<option id="0" is_correct="true">Lincoln</option>
+<option id="1" is_correct="false">Denver</option>
+<option id="2" is_correct="false">Bismarck</option>
+<option id="3" is_correct="false">St. Paul</option>
+</options>
+</question>
+<question id="28">What is the capital of Nevada?
+<options>
+<option id="0" is_correct="true">Carson City</option>
+<option id="1" is_correct="false">Phoenix</option>
+<option id="2" is_correct="false">Denver</option>
+<option id="3" is_correct="false">Hartford</option>
+</options>
+</question>
+<question id="29">What is the capital of New Hampshire?
+<options>
+<option id="0" is_correct="true">Concord</option>
+<option id="1" is_correct="false">Phoenix</option>
+<option id="2" is_correct="false">St. Paul</option>
+<option id="3" is_correct="false">Lincoln</option>
+</options>
+</question>
+<question id="30">What is the capital of New Jersey?
+<options>
+<option id="0" is_correct="true">Trenton</option>
+<option id="1" is_correct="false">Carson City</option>
+<option id="2" is_correct="false">Raleigh</option>
+<option id="3" is_correct="false">Jackson</option>
+</options>
+</question>
+<question id="31">What is the capital of New Mexico?
+<options>
+<option id="0" is_correct="true">Santa Fe</option>
+<option id="1" is_correct="false">Boston</option>
+<option id="2" is_correct="false">Montgomery</option>
+<option id="3" is_correct="false">Frankfort</option>
+</options>
+</question>
+<question id="32">What is the capital of New York?
+<options>
+<option id="0" is_correct="true">Albany</option>
+<option id="1" is_correct="false">Charleston</option>
+<option id="2" is_correct="false">Frankfort</option>
+<option id="3" is_correct="false">Jackson</option>
+</options>
+</question>
+<question id="33">What is the capital of North Carolina?
+<options>
+<option id="0" is_correct="true">Raleigh</option>
+<option id="1" is_correct="false">Boston</option>
+<option id="2" is_correct="false">Jackson</option>
+<option id="3" is_correct="false">Hartford</option>
+</options>
+</question>
+<question id="34">What is the capital of North Dakota?
+<options>
+<option id="0" is_correct="true">Bismarck</option>
+<option id="1" is_correct="false">Montpelier</option>
+<option id="2" is_correct="false">Boise</option>
+<option id="3" is_correct="false">Boston</option>
+</options>
+</question>
+<question id="35">What is the capital of Ohio?
+<options>
+<option id="0" is_correct="true">Columbus</option>
+<option id="1" is_correct="false">Honolulu</option>
+<option id="2" is_correct="false">Madison</option>
+<option id="3" is_correct="false">Nashville</option>
+</options>
+</question>
+<question id="36">What is the capital of Oklahoma?
+<options>
+<option id="0" is_correct="true">Oklahoma City</option>
+<option id="1" is_correct="false">Trenton</option>
+<option id="2" is_correct="false">Des Moines</option>
+<option id="3" is_correct="false">Montpelier</option>
+</options>
+</question>
+<question id="37">What is the capital of Oregon?
+<options>
+<option id="0" is_correct="true">Salem</option>
+<option id="1" is_correct="false">Trenton</option>
+<option id="2" is_correct="false">Little Rock</option>
+<option id="3" is_correct="false">Richmond</option>
+</options>
+</question>
+<question id="38">What is the capital of Pennsylvania?
+<options>
+<option id="0" is_correct="true">Harrisburg</option>
+<option id="1" is_correct="false">Columbia</option>
+<option id="2" is_correct="false">Atlanta</option>
+<option id="3" is_correct="false">Montgomery</option>
+</options>
+</question>
+<question id="39">What is the capital of Rhode Island?
+<options>
+<option id="0" is_correct="true">Providence</option>
+<option id="1" is_correct="false">Pierre</option>
+<option id="2" is_correct="false">Madison</option>
+<option id="3" is_correct="false">Denver</option>
+</options>
+</question>
+<question id="40">What is the capital of South Carolina?
+<options>
+<option id="0" is_correct="true">Columbia</option>
+<option id="1" is_correct="false">Nashville</option>
+<option id="2" is_correct="false">Helena</option>
+<option id="3" is_correct="false">St. Paul</option>
+</options>
+</question>
+<question id="41">What is the capital of South Dakota?
+<options>
+<option id="0" is_correct="true">Pierre</option>
+<option id="1" is_correct="false">Trenton</option>
+<option id="2" is_correct="false">Frankfort</option>
+<option id="3" is_correct="false">Sacramento</option>
+</options>
+</question>
+<question id="42">What is the capital of Tennessee?
+<options>
+<option id="0" is_correct="true">Nashville</option>
+<option id="1" is_correct="false">Annapolis</option>
+<option id="2" is_correct="false">Lansing</option>
+<option id="3" is_correct="false">Salt Lake City</option>
+</options>
+</question>
+<question id="43">What is the capital of Texas?
+<options>
+<option id="0" is_correct="true">Austin</option>
+<option id="1" is_correct="false">Raleigh</option>
+<option id="2" is_correct="false">St. Paul</option>
+<option id="3" is_correct="false">Tallahassee</option>
+</options>
+</question>
+<question id="44">What is the capital of Utah?
+<options>
+<option id="0" is_correct="true">Salt Lake City</option>
+<option id="1" is_correct="false">Lansing</option>
+<option id="2" is_correct="false">Tallahassee</option>
+<option id="3" is_correct="false">Concord</option>
+</options>
+</question>
+<question id="45">What is the capital of Vermont?
+<options>
+<option id="0" is_correct="true">Montpelier</option>
+<option id="1" is_correct="false">Salem</option>
+<option id="2" is_correct="false">Bismarck</option>
+<option id="3" is_correct="false">Cheyenne</option>
+</options>
+</question>
+<question id="46">What is the capital of Virginia?
+<options>
+<option id="0" is_correct="true">Richmond</option>
+<option id="1" is_correct="false">Hartford</option>
+<option id="2" is_correct="false">Boston</option>
+<option id="3" is_correct="false">Augusta</option>
+</options>
+</question>
+<question id="47">What is the capital of Washington?
+<options>
+<option id="0" is_correct="true">Olympia</option>
+<option id="1" is_correct="false">Augusta</option>
+<option id="2" is_correct="false">Phoenix</option>
+<option id="3" is_correct="false">Salem</option>
+</options>
+</question>
+<question id="48">What is the capital of West Virginia?
+<options>
+<option id="0" is_correct="true">Charleston</option>
+<option id="1" is_correct="false">Raleigh</option>
+<option id="2" is_correct="false">Frankfort</option>
+<option id="3" is_correct="false">Pierre</option>
+</options>
+</question>
+<question id="49">What is the capital of Wisconsin?
+<options>
+<option id="0" is_correct="true">Madison</option>
+<option id="1" is_correct="false">Olympia</option>
+<option id="2" is_correct="false">St. Paul</option>
+<option id="3" is_correct="false">Pierre</option>
+</options>
+</question>
+<question id="50">What is the capital of Wyoming?
+<options>
+<option id="0" is_correct="true">Cheyenne</option>
+<option id="1" is_correct="false">Lansing</option>
+<option id="2" is_correct="false">Tallahassee</option>
+<option id="3" is_correct="false">Little Rock</option>
+</options>
+</question>
 </questions>

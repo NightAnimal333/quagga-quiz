@@ -20,6 +20,7 @@ class QuizActivity : AppCompatActivity() {
     private val amountOfQuestions = 10
 
     private var score = 0
+    private val answers: ArrayList<String> = ArrayList()
     private var viewedQuestion = 0
 
     private var defaultButtonTextColour: ColorStateList? = null
@@ -133,7 +134,7 @@ class QuizActivity : AppCompatActivity() {
             questionNumber >= questions.size -> {
 
                 if (!isAllAnswered()){
-                    val snack = Snackbar.make(findViewById(R.id.activity_quiz),"You have unanswered questions!",Snackbar.LENGTH_LONG)
+                    val snack = Snackbar.make(findViewById(R.id.activity_quiz),getString(R.string.unanswered_questions),Snackbar.LENGTH_LONG)
                     snack.show()
 
                     return
@@ -141,6 +142,7 @@ class QuizActivity : AppCompatActivity() {
 
                 val intent = Intent(this, ResultsActivity::class.java)
                 intent.putExtra("score", score)
+                intent.putStringArrayListExtra("answers", answers)
                 startActivity(intent)
                 finish()
             }
@@ -164,7 +166,7 @@ class QuizActivity : AppCompatActivity() {
 
         if (questions[viewedQuestion].isAnswered){
 
-            val snack = Snackbar.make(findViewById(R.id.activity_quiz),"You have already answered this question!",Snackbar.LENGTH_LONG)
+            val snack = Snackbar.make(findViewById(R.id.activity_quiz),getString(R.string.already_answered),Snackbar.LENGTH_LONG)
             snack.show()
 
             return
@@ -177,8 +179,10 @@ class QuizActivity : AppCompatActivity() {
 
             if (question.options[optionNumber].isCorrect) {
                 score++
+                answers.add(question.id.toString() + ":" + "true")
             } else {
                 score -= 2
+                answers.add(question.id.toString() + ":" + "false")
             }
 
             updateScoreUI()
@@ -213,6 +217,7 @@ class QuizActivity : AppCompatActivity() {
                     tagValue = xmlResourceParser.name
                     if (tagValue == "question"){
                         question = Question()
+                        question.id = xmlResourceParser.getAttributeValue(null, "id").toInt()
                     }
                     if (tagValue == "option"){
                         option = Option()

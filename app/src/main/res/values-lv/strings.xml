@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quagga Quiz</string>
+    <string name="start_quiz">Uzsākt viktorīnu</string>
+    <string name="next_question">Nākamais jautājums</string>
+    <string name="previous_question">Iepriekšējāis jautājums</string>
+    <string name="congratulations_you_did_great">Forši! Labs darbs!</string>
+    <string name="back_to_main_menu">Atpakaļ uz galveno izvēlni</string>
+    <string name="your_score">Tavi punkti: %1$d</string>
+    <string name="current_question">Tekošais jautājums: %1$d out of %2$d</string>
+    <string name="an_arrow_to_the_right">Bultiņa pa labi</string>
+    <string name="an_arrow_to_the_left">Bultiņa pa kreisi</string>
+    <string name="button">Poga</string>
+    <string name="here_goes_question">Te būs jautājums</string>
+    <string name="here_goes_player_score">Te būs spēlētāja punktu skaits</string>
+    <string name="here_goes_question_number">Te būs jautājuma numurs</string>
+    <string name="unanswered_questions">Tev vēl ir neatbildēti jautājumi!</string>
+    <string name="already_answered">"Tu jau esi atbildējis/atbildējusi uz šo jautājumu!"</string>
+    <string name="submit_score">Iesniegt rezultātus</string>
+    <string name="nickname">Anonīms</string>
+    <string name="high_scores">Vislabākie spēlētāji</string>
+    <string name="no_highscore">Nevaru pieslēgties pie datu bāzes!</string>
+</resources>

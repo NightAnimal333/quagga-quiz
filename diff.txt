@@ -1,0 +1,25 @@
+diff --git a/app/build/outputs/apk/debug/app-debug.apk b/app/build/outputs/apk/debug/app-debug.apk
+index 79ea8d8..61df364 100644
+Binary files a/app/build/outputs/apk/debug/app-debug.apk and b/app/build/outputs/apk/debug/app-debug.apk differ
+diff --git a/app/src/main/java/com/example/quizapp/QuizActivity.kt b/app/src/main/java/com/example/quizapp/QuizActivity.kt
+index cdd6741..8031131 100644
+--- a/app/src/main/java/com/example/quizapp/QuizActivity.kt
++++ b/app/src/main/java/com/example/quizapp/QuizActivity.kt
+@@ -128,7 +128,7 @@ class QuizActivity : AppCompatActivity() {
+ 
+         when {
+             questionNumber < 0 -> {
+-                return
++               return
+             }
+             questionNumber >= questions.size -> {
+ 
+@@ -184,8 +184,6 @@ class QuizActivity : AppCompatActivity() {
+             updateScoreUI()
+             showCorrectAnswers(viewedQuestion)
+ 
+-            //navigateToQuestion(viewedQuestion + 1)
+-
+         }
+ 
+     }

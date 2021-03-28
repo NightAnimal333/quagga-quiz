@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quagga Quiz</string>
+    <string name="start_quiz">Starte med quizzen</string>
+    <string name="next_question">Neste spørsmål</string>
+    <string name="previous_question">Forrige spørsmål</string>
+    <string name="congratulations_you_did_great">Flott! Bra jobb!</string>
+    <string name="back_to_main_menu">Tilbake til hovedmenyen</string>
+    <string name="your_score">Dine punkter: %1$d</string>
+    <string name="current_question">Nåværende spørsmål: %1$d out of %2$d</string>
+    <string name="an_arrow_to_the_right">Pilen til høyre</string>
+    <string name="an_arrow_to_the_left">Pilen til venstre</string>
+    <string name="button">Knapp</string>
+    <string name="here_goes_question">Her blir det spørsmål</string>
+    <string name="here_goes_player_score">Her blir det punkter</string>
+    <string name="here_goes_question_number">Her blir det spørsmålsnummer</string>
+    <string name="unanswered_questions">Du har fortsatt usvarte spørsmål!</string>
+    <string name="already_answered">Du har allerede svart på dette spørsmålet</string>
+    <string name="submit_score">Send inn poengsum</string>
+    <string name="nickname">Anonym</string>
+    <string name="high_scores">De beste spillerne</string>
+    <string name="no_highscore">Kan ikke koble til databasen!</string>
+</resources>

@@ -2,6 +2,8 @@ package com.example.quizapp
 
 class Question {
 
+    public var id: Int = -1
+
     public var text: String = "Generic question?"
     public val options: MutableList<Option> = mutableListOf<Option>()
 

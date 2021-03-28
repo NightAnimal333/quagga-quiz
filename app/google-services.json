@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546537393813",
+    "project_id": "quagga-quiz",
+    "storage_bucket": "quagga-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546537393813:android:31eae13e266130cd76559c",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546537393813-s8p6tv640difm2vjh531885di0ful509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFMNwMr2PqgXjnneiHU5yB0Iiy-uUs44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546537393813-s8p6tv640difm2vjh531885di0ful509.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

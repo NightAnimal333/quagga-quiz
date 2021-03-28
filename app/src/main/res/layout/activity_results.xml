@@ -10,7 +10,7 @@
         android:id="@+id/results_score_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Here goes player score"
+        android:text="@string/here_goes_player_score"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,4 +39,30 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.217" />
+
+    <Button
+        android:id="@+id/submit_score_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit_score"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.716" />
+
+    <EditText
+        android:id="@+id/nickname_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/nickname"
+        android:importantForAutofill="no"
+        android:inputType="textPersonName"
+        android:maxLength="12"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.429" />
 </androidx.constraintlayout.widget.ConstraintLayout>
